@@ -130,13 +130,13 @@ void test(std::vector<Car>& cars, std::vector<Customer> customer) {
             totalDist += cars[i].time;
             write_route_distance << "Route #" << i + 1 << ":" << std::endl;
             write_route_distance << "------------------------------------------------------------------------------------------------------------------" << std::endl;
-            write_distance << i + 1 << ".\t Distance:\t" << cars[i].time << std::endl;
-            std::cout << std::endl << "#" << i + 1 << ".\t Distance:\t " << cars[i].time << std::endl;
+            write_distance << std::fixed << i + 1 << ".\t Distance:\t" << cars[i].time << std::endl;
+            std::cout << std::fixed << std::endl << "#" << i + 1 << ".\t Distance:\t " << cars[i].time << std::endl;
             std::cout << "------------------------------------------------------------------------------------------------------------------" << std::endl;
         }
     }
-    std::cout << std::endl << "Total distance: " << totalDist;
-    write_distance << std::endl << "Total distance: " << totalDist;
+    std::cout << std::fixed << std::endl << "Total distance: " << totalDist;
+    write_distance << std::fixed << std::endl << "Total distance: " << totalDist;
     write_distance.close();
     write_route_distance.close();
 }
