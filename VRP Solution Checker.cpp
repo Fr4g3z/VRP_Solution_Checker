@@ -33,7 +33,7 @@ public:
         id(), xc(), yc(), demand(), readyT(), finT(), serviceT() {}
     double distance(Customer other, double d = 0.0) const {
         double xn = other.xc - xc, yn = other.yc - yc, dist = sqrt(pow(xn, 2) + pow(yn, 2)), diff;
-        std::ofstream write_route(".\\output\\route_distance.log", std::ofstream::out | std::ofstream::app);
+        std::ofstream write_route(".\\output\\route_distance.txt", std::ofstream::out | std::ofstream::app);
         d += dist;
         if (d < other.readyT) {
             diff = other.readyT - d;
@@ -115,11 +115,11 @@ void txt_to_cars(std::vector<Car>& cars) {
 
 void test(std::vector<Car>& cars, std::vector<Customer> customer) {
     double totalDist = 0.0, totalTime = 0.0;
-    std::ofstream write_distance(".\\output\\distance.log");
-    std::ofstream write_route(".\\output\\route_distance.log");
+    std::ofstream write_distance(".\\output\\distance.txt");
+    std::ofstream write_route(".\\output\\route_distance.txt");
     write_route << "------------------------------------------------------------------------------------------------------------------" << std::endl;
     write_route.close();
-    std::ofstream write_route_distance(".\\output\\route_distance.log", std::ofstream::out | std::ofstream::app);
+    std::ofstream write_route_distance(".\\output\\route_distance.txt", std::ofstream::out | std::ofstream::app);
     for (int i = 0; i < cars.size(); i++) {
         cars[i].routeCheck(customer);
 

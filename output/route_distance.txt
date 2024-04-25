@@ -1,0 +1,1041 @@
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	553:	185.970428	Waiting time:	0.000000	Total dist:	185.970428
+Dist b/w	553	and	494:	32.249031	Waiting time:	30.780541	Total dist:	228.219459
+Dist b/w	494	and	88:	53.160135	Waiting time:	30.620406	Total dist:	291.379594
+Dist b/w	88	and	681:	28.442925	Waiting time:	118.177481	Total dist:	329.822519
+Dist b/w	681	and	776:	34.205263	Waiting time:	125.972218	Total dist:	374.027782
+Dist b/w	776	and	462:	27.000000	Waiting time:	316.972218	Total dist:	411.027782
+Dist b/w	462	and	612:	17.492856	Waiting time:	578.479362	Total dist:	438.520638
+Dist b/w	612	and	0:	143.753261	Waiting time:	0.000000	Total dist:	592.273899
+Route #1:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	382:	202.556165	Waiting time:	0.000000	Total dist:	202.556165
+Dist b/w	382	and	355:	14.764823	Waiting time:	0.000000	Total dist:	227.320988
+Dist b/w	355	and	161:	4.123106	Waiting time:	171.555906	Total dist:	241.444094
+Dist b/w	161	and	650:	22.472205	Waiting time:	185.083701	Total dist:	273.916299
+Dist b/w	650	and	213:	27.000000	Waiting time:	234.083701	Total dist:	310.916299
+Dist b/w	213	and	125:	17.720045	Waiting time:	232.363656	Total dist:	338.636344
+Dist b/w	125	and	620:	30.364453	Waiting time:	312.999203	Total dist:	379.000797
+Dist b/w	620	and	262:	36.359318	Waiting time:	409.639885	Total dist:	425.360115
+Dist b/w	262	and	730:	61.073726	Waiting time:	718.566159	Total dist:	496.433841
+Dist b/w	730	and	0:	209.990476	Waiting time:	0.000000	Total dist:	716.424317
+Route #2:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	518:	124.739729	Waiting time:	0.000000	Total dist:	124.739729
+Dist b/w	518	and	63:	33.136083	Waiting time:	145.124188	Total dist:	167.875812
+Dist b/w	63	and	41:	10.295630	Waiting time:	155.828558	Total dist:	188.171442
+Dist b/w	41	and	84:	27.202941	Waiting time:	176.625617	Total dist:	225.374383
+Dist b/w	84	and	611:	17.204651	Waiting time:	201.420966	Total dist:	252.579034
+Dist b/w	611	and	459:	14.317821	Waiting time:	403.103145	Total dist:	276.896855
+Dist b/w	459	and	240:	1.414214	Waiting time:	551.688932	Total dist:	288.311068
+Dist b/w	240	and	623:	28.160256	Waiting time:	634.528676	Total dist:	326.471324
+Dist b/w	623	and	17:	28.442925	Waiting time:	654.085751	Total dist:	364.914249
+Dist b/w	17	and	479:	18.439089	Waiting time:	654.646662	Total dist:	393.353338
+Dist b/w	479	and	414:	25.059928	Waiting time:	658.586734	Total dist:	428.413266
+Dist b/w	414	and	0:	118.207445	Waiting time:	0.000000	Total dist:	556.620711
+Route #3:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	50:	97.943861	Waiting time:	0.000000	Total dist:	97.943861
+Dist b/w	50	and	426:	169.425500	Waiting time:	0.000000	Total dist:	277.369361
+Dist b/w	426	and	616:	18.357560	Waiting time:	403.273079	Total dist:	305.726921
+Dist b/w	616	and	385:	13.038405	Waiting time:	475.234674	Total dist:	328.765326
+Dist b/w	385	and	11:	27.658633	Waiting time:	468.576041	Total dist:	366.423959
+Dist b/w	11	and	401:	14.422205	Waiting time:	528.153836	Total dist:	390.846164
+Dist b/w	401	and	707:	38.948684	Waiting time:	526.205151	Total dist:	439.794849
+Dist b/w	707	and	714:	13.000000	Waiting time:	649.205151	Total dist:	462.794849
+Dist b/w	714	and	746:	14.035669	Waiting time:	886.169483	Total dist:	486.830517
+Dist b/w	746	and	525:	237.255137	Waiting time:	908.914346	Total dist:	734.085654
+Dist b/w	525	and	0:	25.000000	Waiting time:	0.000000	Total dist:	769.085654
+Route #4:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	415:	166.760307	Waiting time:	0.000000	Total dist:	166.760307
+Dist b/w	415	and	798:	55.542776	Waiting time:	9.696917	Total dist:	232.303083
+Dist b/w	798	and	670:	19.416488	Waiting time:	106.280429	Total dist:	261.719571
+Dist b/w	670	and	48:	41.182521	Waiting time:	116.097908	Total dist:	312.902092
+Dist b/w	48	and	179:	2.000000	Waiting time:	238.097908	Total dist:	324.902092
+Dist b/w	179	and	326:	41.725292	Waiting time:	229.372616	Total dist:	376.627384
+Dist b/w	326	and	593:	13.038405	Waiting time:	284.334211	Total dist:	399.665789
+Dist b/w	593	and	86:	14.142136	Waiting time:	400.192076	Total dist:	423.807924
+Dist b/w	86	and	666:	37.643060	Waiting time:	417.549015	Total dist:	471.450985
+Dist b/w	666	and	483:	54.083269	Waiting time:	490.465746	Total dist:	535.534254
+Dist b/w	483	and	0:	38.418745	Waiting time:	0.000000	Total dist:	583.952999
+Route #5:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	247:	53.935146	Waiting time:	0.000000	Total dist:	53.935146
+Dist b/w	247	and	693:	140.730238	Waiting time:	0.000000	Total dist:	204.665385
+Dist b/w	693	and	281:	19.416488	Waiting time:	0.000000	Total dist:	234.081872
+Dist b/w	281	and	293:	44.777226	Waiting time:	47.140901	Total dist:	288.859099
+Dist b/w	293	and	742:	8.246211	Waiting time:	43.894690	Total dist:	307.105310
+Dist b/w	742	and	441:	24.020824	Waiting time:	476.873866	Total dist:	341.126134
+Dist b/w	441	and	119:	24.698178	Waiting time:	699.175688	Total dist:	375.824312
+Dist b/w	119	and	330:	36.055513	Waiting time:	715.120175	Total dist:	421.879825
+Dist b/w	330	and	29:	17.117243	Waiting time:	777.002932	Total dist:	448.997068
+Dist b/w	29	and	0:	149.083869	Waiting time:	0.000000	Total dist:	608.080937
+Route #6:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	515:	138.708327	Waiting time:	0.000000	Total dist:	138.708327
+Dist b/w	515	and	292:	49.929951	Waiting time:	28.361722	Total dist:	198.638278
+Dist b/w	292	and	201:	25.179357	Waiting time:	84.182365	Total dist:	233.817635
+Dist b/w	201	and	471:	12.529964	Waiting time:	82.652401	Total dist:	256.347599
+Dist b/w	471	and	491:	15.264338	Waiting time:	155.388064	Total dist:	281.611936
+Dist b/w	491	and	205:	4.242641	Waiting time:	157.145423	Total dist:	295.854577
+Dist b/w	205	and	543:	5.000000	Waiting time:	374.145423	Total dist:	310.854577
+Dist b/w	543	and	699:	44.283180	Waiting time:	467.862243	Total dist:	365.137757
+Dist b/w	699	and	550:	27.073973	Waiting time:	483.788271	Total dist:	402.211729
+Dist b/w	550	and	387:	26.925824	Waiting time:	530.862447	Total dist:	439.137553
+Dist b/w	387	and	569:	32.140317	Waiting time:	767.722129	Total dist:	481.277871
+Dist b/w	569	and	0:	171.143215	Waiting time:	0.000000	Total dist:	662.421086
+Route #7:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	386:	175.786803	Waiting time:	0.000000	Total dist:	175.786803
+Dist b/w	386	and	590:	60.901560	Waiting time:	0.000000	Total dist:	246.688363
+Dist b/w	590	and	778:	24.083189	Waiting time:	0.000000	Total dist:	280.771552
+Dist b/w	778	and	418:	29.966648	Waiting time:	0.000000	Total dist:	320.738200
+Dist b/w	418	and	272:	24.413111	Waiting time:	8.848689	Total dist:	355.151311
+Dist b/w	272	and	551:	6.082763	Waiting time:	5.765926	Total dist:	371.234074
+Dist b/w	551	and	474:	23.345235	Waiting time:	65.420691	Total dist:	404.579309
+Dist b/w	474	and	755:	2.236068	Waiting time:	379.184623	Total dist:	416.815377
+Dist b/w	755	and	621:	17.262677	Waiting time:	549.921947	Total dist:	444.078053
+Dist b/w	621	and	150:	50.328918	Waiting time:	793.593029	Total dist:	504.406971
+Dist b/w	150	and	458:	20.880613	Waiting time:	886.712416	Total dist:	535.287584
+Dist b/w	458	and	0:	135.247921	Waiting time:	0.000000	Total dist:	680.535505
+Route #8:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	446:	61.846584	Waiting time:	0.000000	Total dist:	61.846584
+Dist b/w	446	and	158:	42.011903	Waiting time:	0.000000	Total dist:	113.858487
+Dist b/w	158	and	170:	5.099020	Waiting time:	18.042493	Total dist:	128.957507
+Dist b/w	170	and	98:	69.771054	Waiting time:	112.271439	Total dist:	208.728561
+Dist b/w	98	and	613:	12.529964	Waiting time:	249.741475	Total dist:	231.258525
+Dist b/w	613	and	577:	13.601471	Waiting time:	374.140004	Total dist:	254.859996
+Dist b/w	577	and	259:	28.160256	Waiting time:	365.979749	Total dist:	293.020251
+Dist b/w	259	and	767:	23.086793	Waiting time:	376.892956	Total dist:	326.107044
+Dist b/w	767	and	269:	21.213203	Waiting time:	397.679752	Total dist:	357.320248
+Dist b/w	269	and	197:	22.022716	Waiting time:	453.657037	Total dist:	389.342963
+Dist b/w	197	and	206:	24.758837	Waiting time:	453.898200	Total dist:	424.101800
+Dist b/w	206	and	129:	24.083189	Waiting time:	464.815011	Total dist:	458.184989
+Dist b/w	129	and	673:	4.123106	Waiting time:	647.691905	Total dist:	472.308095
+Dist b/w	673	and	0:	70.235319	Waiting time:	0.000000	Total dist:	552.543414
+Route #9:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	758:	103.406963	Waiting time:	0.000000	Total dist:	103.406963
+Dist b/w	758	and	215:	30.232433	Waiting time:	21.360604	Total dist:	143.639396
+Dist b/w	215	and	291:	35.057096	Waiting time:	254.303508	Total dist:	188.696492
+Dist b/w	291	and	791:	2.236068	Waiting time:	321.067440	Total dist:	200.932560
+Dist b/w	791	and	223:	11.704700	Waiting time:	338.362740	Total dist:	222.637260
+Dist b/w	223	and	703:	4.242641	Waiting time:	353.120099	Total dist:	236.879901
+Dist b/w	703	and	622:	33.000000	Waiting time:	406.120099	Total dist:	279.879901
+Dist b/w	622	and	731:	12.083046	Waiting time:	524.037053	Total dist:	301.962947
+Dist b/w	731	and	153:	25.079872	Waiting time:	630.957181	Total dist:	337.042819
+Dist b/w	153	and	505:	33.541020	Waiting time:	644.416161	Total dist:	380.583839
+Dist b/w	505	and	586:	40.804412	Waiting time:	736.611750	Total dist:	431.388250
+Dist b/w	586	and	0:	42.047592	Waiting time:	0.000000	Total dist:	483.435842
+Route #10:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	315:	51.884487	Waiting time:	0.000000	Total dist:	51.884487
+Dist b/w	315	and	225:	51.039201	Waiting time:	514.076312	Total dist:	112.923688
+Dist b/w	225	and	697:	10.440307	Waiting time:	508.636006	Total dist:	133.363994
+Dist b/w	697	and	243:	38.832976	Waiting time:	536.803030	Total dist:	182.196970
+Dist b/w	243	and	718:	8.485281	Waiting time:	548.317749	Total dist:	200.682251
+Dist b/w	718	and	692:	12.083046	Waiting time:	579.234703	Total dist:	222.765297
+Dist b/w	692	and	174:	13.601471	Waiting time:	578.633232	Total dist:	246.366768
+Dist b/w	174	and	398:	25.612497	Waiting time:	645.020735	Total dist:	281.979265
+Dist b/w	398	and	113:	10.198039	Waiting time:	640.822696	Total dist:	302.177304
+Dist b/w	113	and	743:	7.810250	Waiting time:	873.012447	Total dist:	319.987553
+Dist b/w	743	and	298:	35.057096	Waiting time:	893.955350	Total dist:	365.044650
+Dist b/w	298	and	287:	26.400758	Waiting time:	1188.554593	Total dist:	401.445407
+Dist b/w	287	and	0:	65.192024	Waiting time:	0.000000	Total dist:	476.637431
+Route #11:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	80:	77.129761	Waiting time:	0.000000	Total dist:	77.129761
+Dist b/w	80	and	404:	70.178344	Waiting time:	0.000000	Total dist:	157.308105
+Dist b/w	404	and	508:	37.947332	Waiting time:	71.744563	Total dist:	205.255437
+Dist b/w	508	and	167:	15.620499	Waiting time:	344.124064	Total dist:	230.875936
+Dist b/w	167	and	42:	11.401754	Waiting time:	540.722309	Total dist:	252.277691
+Dist b/w	42	and	140:	45.254834	Waiting time:	576.467475	Total dist:	307.532525
+Dist b/w	140	and	403:	17.492856	Waiting time:	586.974620	Total dist:	335.025380
+Dist b/w	403	and	356:	11.401754	Waiting time:	685.572866	Total dist:	356.427134
+Dist b/w	356	and	169:	6.403124	Waiting time:	743.169741	Total dist:	372.830259
+Dist b/w	169	and	2:	29.732137	Waiting time:	767.437604	Total dist:	412.562396
+Dist b/w	2	and	0:	80.653580	Waiting time:	0.000000	Total dist:	503.215976
+Route #12:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	16:	56.727418	Waiting time:	0.000000	Total dist:	56.727418
+Dist b/w	16	and	83:	47.010637	Waiting time:	123.261944	Total dist:	113.738056
+Dist b/w	83	and	275:	72.034714	Waiting time:	192.227231	Total dist:	195.772769
+Dist b/w	275	and	21:	17.029386	Waiting time:	192.197844	Total dist:	222.802156
+Dist b/w	21	and	393:	18.601075	Waiting time:	211.596769	Total dist:	251.403231
+Dist b/w	393	and	712:	9.219544	Waiting time:	202.377225	Total dist:	270.622775
+Dist b/w	712	and	237:	5.385165	Waiting time:	301.992060	Total dist:	286.007940
+Dist b/w	237	and	306:	4.472136	Waiting time:	436.519924	Total dist:	300.480076
+Dist b/w	306	and	535:	10.000000	Waiting time:	485.519924	Total dist:	320.480076
+Dist b/w	535	and	478:	13.892444	Waiting time:	485.627480	Total dist:	344.372520
+Dist b/w	478	and	9:	10.816654	Waiting time:	612.810826	Total dist:	365.189174
+Dist b/w	9	and	561:	43.185646	Waiting time:	657.625180	Total dist:	418.374820
+Dist b/w	561	and	0:	124.145076	Waiting time:	0.000000	Total dist:	552.519896
+Route #13:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	475:	46.754679	Waiting time:	0.000000	Total dist:	46.754679
+Dist b/w	475	and	64:	18.439089	Waiting time:	13.806232	Total dist:	75.193768
+Dist b/w	64	and	332:	7.280110	Waiting time:	702.526122	Total dist:	92.473878
+Dist b/w	332	and	349:	7.280110	Waiting time:	1194.246012	Total dist:	109.753988
+Dist b/w	349	and	0:	45.650849	Waiting time:	0.000000	Total dist:	165.404836
+Route #14:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	209:	180.405100	Waiting time:	0.000000	Total dist:	180.405100
+Dist b/w	209	and	163:	27.856777	Waiting time:	0.000000	Total dist:	218.261876
+Dist b/w	163	and	545:	26.248809	Waiting time:	0.000000	Total dist:	254.510686
+Dist b/w	545	and	540:	33.241540	Waiting time:	120.247774	Total dist:	297.752226
+Dist b/w	540	and	687:	14.422205	Waiting time:	110.825569	Total dist:	322.174431
+Dist b/w	687	and	38:	9.219544	Waiting time:	238.606024	Total dist:	341.393976
+Dist b/w	38	and	542:	8.544004	Waiting time:	299.062021	Total dist:	359.937979
+Dist b/w	542	and	594:	23.600847	Waiting time:	411.461173	Total dist:	393.538827
+Dist b/w	594	and	12:	34.985711	Waiting time:	413.475462	Total dist:	438.524538
+Dist b/w	12	and	327:	17.464249	Waiting time:	550.011213	Total dist:	465.988787
+Dist b/w	327	and	210:	38.052595	Waiting time:	647.958617	Total dist:	514.041383
+Dist b/w	210	and	517:	60.835845	Waiting time:	780.122773	Total dist:	584.877227
+Dist b/w	517	and	0:	169.248338	Waiting time:	0.000000	Total dist:	764.125565
+Route #15:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	433:	106.962610	Waiting time:	0.000000	Total dist:	106.962610
+Dist b/w	433	and	661:	90.077744	Waiting time:	0.000000	Total dist:	207.040354
+Dist b/w	661	and	754:	5.830952	Waiting time:	31.128694	Total dist:	222.871306
+Dist b/w	754	and	196:	7.071068	Waiting time:	297.057626	Total dist:	239.942374
+Dist b/w	196	and	566:	23.323808	Waiting time:	312.733818	Total dist:	273.266182
+Dist b/w	566	and	188:	27.784888	Waiting time:	312.948930	Total dist:	311.051070
+Dist b/w	188	and	450:	8.485281	Waiting time:	460.463649	Total dist:	329.536351
+Dist b/w	450	and	451:	15.033296	Waiting time:	571.430352	Total dist:	354.569648
+Dist b/w	451	and	62:	17.720045	Waiting time:	656.710307	Total dist:	382.289693
+Dist b/w	62	and	391:	17.492856	Waiting time:	656.217452	Total dist:	409.782548
+Dist b/w	391	and	0:	151.119158	Waiting time:	0.000000	Total dist:	570.901707
+Route #16:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	568:	226.770809	Waiting time:	0.000000	Total dist:	226.770809
+Dist b/w	568	and	270:	45.650849	Waiting time:	0.000000	Total dist:	282.421658
+Dist b/w	270	and	75:	35.608988	Waiting time:	49.969354	Total dist:	328.030646
+Dist b/w	75	and	263:	12.806248	Waiting time:	235.163106	Total dist:	350.836894
+Dist b/w	263	and	523:	29.410882	Waiting time:	234.752223	Total dist:	390.247777
+Dist b/w	523	and	229:	15.620499	Waiting time:	271.131724	Total dist:	415.868276
+Dist b/w	229	and	79:	12.041595	Waiting time:	377.090129	Total dist:	437.909871
+Dist b/w	79	and	311:	7.810250	Waiting time:	407.279880	Total dist:	455.720120
+Dist b/w	311	and	175:	15.297059	Waiting time:	425.982821	Total dist:	481.017179
+Dist b/w	175	and	72:	21.540659	Waiting time:	418.442162	Total dist:	512.557838
+Dist b/w	72	and	552:	27.459060	Waiting time:	453.983101	Total dist:	550.016899
+Dist b/w	552	and	149:	11.045361	Waiting time:	580.937740	Total dist:	571.062260
+Dist b/w	149	and	60:	47.381431	Waiting time:	669.556310	Total dist:	628.443690
+Dist b/w	60	and	0:	135.679770	Waiting time:	0.000000	Total dist:	774.123461
+Route #17:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	696:	244.663034	Waiting time:	0.000000	Total dist:	244.663034
+Dist b/w	696	and	627:	13.416408	Waiting time:	0.000000	Total dist:	268.079441
+Dist b/w	627	and	655:	9.219544	Waiting time:	0.000000	Total dist:	287.298986
+Dist b/w	655	and	640:	11.401754	Waiting time:	81.299260	Total dist:	308.700740
+Dist b/w	640	and	253:	28.600699	Waiting time:	100.698561	Total dist:	347.301439
+Dist b/w	253	and	322:	13.038405	Waiting time:	317.660156	Total dist:	370.339844
+Dist b/w	322	and	373:	26.172505	Waiting time:	374.487651	Total dist:	406.512349
+Dist b/w	373	and	249:	6.403124	Waiting time:	466.084527	Total dist:	422.915473
+Dist b/w	249	and	793:	21.000000	Waiting time:	567.084527	Total dist:	453.915473
+Dist b/w	793	and	307:	39.115214	Waiting time:	717.969312	Total dist:	503.030688
+Dist b/w	307	and	564:	1.000000	Waiting time:	754.969312	Total dist:	514.030688
+Dist b/w	564	and	0:	242.406683	Waiting time:	0.000000	Total dist:	766.437371
+Route #18:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	239:	39.408121	Waiting time:	0.000000	Total dist:	39.408121
+Dist b/w	239	and	265:	73.348483	Waiting time:	10.243396	Total dist:	122.756604
+Dist b/w	265	and	645:	51.894123	Waiting time:	16.349273	Total dist:	184.650727
+Dist b/w	645	and	580:	12.206556	Waiting time:	172.142717	Total dist:	206.857283
+Dist b/w	580	and	722:	8.485281	Waiting time:	164.657436	Total dist:	225.342564
+Dist b/w	722	and	124:	11.661904	Waiting time:	185.995532	Total dist:	247.004468
+Dist b/w	124	and	405:	6.708204	Waiting time:	295.287328	Total dist:	263.712672
+Dist b/w	405	and	218:	6.403124	Waiting time:	360.884204	Total dist:	280.115796
+Dist b/w	218	and	757:	35.171011	Waiting time:	367.713193	Total dist:	325.286807
+Dist b/w	757	and	626:	12.206556	Waiting time:	658.506637	Total dist:	347.493363
+Dist b/w	626	and	629:	60.415230	Waiting time:	658.091408	Total dist:	417.908592
+Dist b/w	629	and	0:	84.148678	Waiting time:	0.000000	Total dist:	512.057270
+Route #19:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	537:	59.933296	Waiting time:	0.000000	Total dist:	59.933296
+Dist b/w	537	and	452:	26.305893	Waiting time:	370.760811	Total dist:	96.239189
+Dist b/w	452	and	752:	27.658633	Waiting time:	383.102177	Total dist:	133.897823
+Dist b/w	752	and	763:	31.304952	Waiting time:	402.797226	Total dist:	175.202774
+Dist b/w	763	and	222:	9.219544	Waiting time:	528.577681	Total dist:	194.422319
+Dist b/w	222	and	168:	13.000000	Waiting time:	726.577681	Total dist:	217.422319
+Dist b/w	168	and	397:	2.236068	Waiting time:	724.341613	Total dist:	229.658387
+Dist b/w	397	and	667:	13.928388	Waiting time:	925.413225	Total dist:	253.586775
+Dist b/w	667	and	146:	46.065171	Waiting time:	1015.348054	Total dist:	309.651946
+Dist b/w	146	and	0:	87.235314	Waiting time:	0.000000	Total dist:	406.887260
+Route #20:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	463:	95.273291	Waiting time:	0.000000	Total dist:	95.273291
+Dist b/w	463	and	230:	72.027772	Waiting time:	0.000000	Total dist:	177.301064
+Dist b/w	230	and	233:	25.942244	Waiting time:	18.756693	Total dist:	213.243307
+Dist b/w	233	and	761:	7.810250	Waiting time:	67.946443	Total dist:	231.053557
+Dist b/w	761	and	363:	14.142136	Waiting time:	143.804308	Total dist:	255.195692
+Dist b/w	363	and	43:	10.000000	Waiting time:	242.804308	Total dist:	275.195692
+Dist b/w	43	and	447:	14.142136	Waiting time:	314.662172	Total dist:	299.337828
+Dist b/w	447	and	312:	33.015148	Waiting time:	417.647024	Total dist:	342.352976
+Dist b/w	312	and	370:	15.000000	Waiting time:	512.647024	Total dist:	367.352976
+Dist b/w	370	and	764:	13.928388	Waiting time:	502.718636	Total dist:	391.281364
+Dist b/w	764	and	317:	40.706265	Waiting time:	560.012371	Total dist:	441.987629
+Dist b/w	317	and	0:	109.329776	Waiting time:	0.000000	Total dist:	561.317406
+Route #21:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	26:	161.941347	Waiting time:	0.000000	Total dist:	161.941347
+Dist b/w	26	and	779:	83.096330	Waiting time:	0.000000	Total dist:	255.037677
+Dist b/w	779	and	18:	9.055385	Waiting time:	294.906938	Total dist:	274.093062
+Dist b/w	18	and	228:	10.295630	Waiting time:	368.611308	Total dist:	294.388692
+Dist b/w	228	and	46:	46.690470	Waiting time:	381.920838	Total dist:	351.079162
+Dist b/w	46	and	795:	18.248288	Waiting time:	381.672550	Total dist:	379.327450
+Dist b/w	795	and	316:	23.537205	Waiting time:	436.135345	Total dist:	412.864655
+Dist b/w	316	and	56:	49.091751	Waiting time:	555.043595	Total dist:	471.956405
+Dist b/w	56	and	469:	23.769729	Waiting time:	681.273866	Total dist:	505.726134
+Dist b/w	469	and	0:	159.906223	Waiting time:	0.000000	Total dist:	675.632357
+Route #22:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	211:	100.424101	Waiting time:	0.000000	Total dist:	100.424101
+Dist b/w	211	and	694:	47.010637	Waiting time:	0.000000	Total dist:	157.434738
+Dist b/w	694	and	417:	46.097722	Waiting time:	37.467540	Total dist:	213.532460
+Dist b/w	417	and	45:	11.401754	Waiting time:	31.065786	Total dist:	234.934214
+Dist b/w	45	and	342:	16.763055	Waiting time:	136.302731	Total dist:	261.697269
+Dist b/w	342	and	234:	20.024984	Waiting time:	130.277747	Total dist:	291.722253
+Dist b/w	234	and	280:	22.000000	Waiting time:	271.277747	Total dist:	323.722253
+Dist b/w	280	and	570:	3.162278	Waiting time:	271.115469	Total dist:	336.884531
+Dist b/w	570	and	514:	14.212670	Waiting time:	540.902799	Total dist:	361.097201
+Dist b/w	514	and	485:	8.062258	Waiting time:	557.840541	Total dist:	379.159459
+Dist b/w	485	and	337:	83.258633	Waiting time:	817.581908	Total dist:	472.418092
+Dist b/w	337	and	74:	26.570661	Waiting time:	818.011247	Total dist:	508.988753
+Dist b/w	74	and	0:	129.247824	Waiting time:	0.000000	Total dist:	648.236577
+Route #23:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	532:	124.016128	Waiting time:	0.000000	Total dist:	124.016128
+Dist b/w	532	and	432:	138.852440	Waiting time:	0.000000	Total dist:	272.868568
+Dist b/w	432	and	533:	9.848858	Waiting time:	42.282575	Total dist:	292.717425
+Dist b/w	533	and	492:	12.041595	Waiting time:	167.240980	Total dist:	314.759020
+Dist b/w	492	and	665:	42.296572	Waiting time:	193.944408	Total dist:	367.055592
+Dist b/w	665	and	379:	6.082763	Waiting time:	204.861645	Total dist:	383.138355
+Dist b/w	379	and	753:	23.853721	Waiting time:	298.007925	Total dist:	416.992075
+Dist b/w	753	and	118:	35.014283	Waiting time:	319.993642	Total dist:	462.006358
+Dist b/w	118	and	671:	15.811388	Waiting time:	338.182253	Total dist:	487.817747
+Dist b/w	671	and	221:	20.880613	Waiting time:	550.301640	Total dist:	518.698360
+Dist b/w	221	and	338:	102.176318	Waiting time:	697.125322	Total dist:	630.874678
+Dist b/w	338	and	0:	95.713113	Waiting time:	0.000000	Total dist:	736.587791
+Route #24:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	773:	205.000000	Waiting time:	0.000000	Total dist:	205.000000
+Dist b/w	773	and	766:	22.825424	Waiting time:	31.174576	Total dist:	237.825424
+Dist b/w	766	and	748:	8.944272	Waiting time:	86.230304	Total dist:	256.769696
+Dist b/w	748	and	749:	38.418745	Waiting time:	230.811558	Total dist:	305.188442
+Dist b/w	749	and	715:	12.727922	Waiting time:	245.083636	Total dist:	327.916364
+Dist b/w	715	and	255:	8.000000	Waiting time:	268.083636	Total dist:	345.916364
+Dist b/w	255	and	180:	18.384776	Waiting time:	404.698860	Total dist:	374.301140
+Dist b/w	180	and	628:	14.560220	Waiting time:	526.138640	Total dist:	398.861360
+Dist b/w	628	and	663:	16.278821	Waiting time:	525.859819	Total dist:	425.140181
+Dist b/w	663	and	745:	27.294688	Waiting time:	532.565131	Total dist:	462.434869
+Dist b/w	745	and	412:	33.301652	Waiting time:	759.263480	Total dist:	505.736520
+Dist b/w	412	and	208:	69.375788	Waiting time:	774.887691	Total dist:	585.112309
+Dist b/w	208	and	0:	75.802375	Waiting time:	0.000000	Total dist:	670.914683
+Route #25:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	335:	97.744565	Waiting time:	0.000000	Total dist:	97.744565
+Dist b/w	335	and	396:	12.041595	Waiting time:	0.000000	Total dist:	119.786160
+Dist b/w	396	and	530:	108.853112	Waiting time:	50.360728	Total dist:	238.639272
+Dist b/w	530	and	67:	37.735925	Waiting time:	50.624804	Total dist:	286.375196
+Dist b/w	67	and	177:	11.704700	Waiting time:	103.920104	Total dist:	308.079896
+Dist b/w	177	and	780:	22.472205	Waiting time:	103.447899	Total dist:	340.552101
+Dist b/w	780	and	340:	42.190046	Waiting time:	117.257853	Total dist:	392.742147
+Dist b/w	340	and	448:	49.648766	Waiting time:	229.609086	Total dist:	452.390914
+Dist b/w	448	and	94:	62.201286	Waiting time:	705.407800	Total dist:	524.592200
+Dist b/w	94	and	0:	16.552945	Waiting time:	0.000000	Total dist:	551.145145
+Route #26:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	351:	12.041595	Waiting time:	0.000000	Total dist:	12.041595
+Dist b/w	351	and	427:	250.521456	Waiting time:	0.000000	Total dist:	272.563051
+Dist b/w	427	and	127:	27.202941	Waiting time:	290.234008	Total dist:	309.765992
+Dist b/w	127	and	434:	36.619667	Waiting time:	311.614341	Total dist:	356.385659
+Dist b/w	434	and	193:	11.045361	Waiting time:	474.568980	Total dist:	377.431020
+Dist b/w	193	and	526:	24.041631	Waiting time:	474.527350	Total dist:	411.472650
+Dist b/w	526	and	407:	4.472136	Waiting time:	534.055214	Total dist:	425.944786
+Dist b/w	407	and	160:	13.038405	Waiting time:	525.016809	Total dist:	448.983191
+Dist b/w	160	and	156:	28.017851	Waiting time:	548.998958	Total dist:	487.001042
+Dist b/w	156	and	348:	21.260292	Waiting time:	591.738666	Total dist:	518.261334
+Dist b/w	348	and	771:	19.026298	Waiting time:	715.712368	Total dist:	547.287632
+Dist b/w	771	and	313:	20.808652	Waiting time:	712.903716	Total dist:	578.096284
+Dist b/w	313	and	0:	252.461878	Waiting time:	0.000000	Total dist:	840.558162
+Route #27:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	578:	51.894123	Waiting time:	0.000000	Total dist:	51.894123
+Dist b/w	578	and	487:	53.150729	Waiting time:	0.000000	Total dist:	115.044852
+Dist b/w	487	and	344:	26.476405	Waiting time:	293.478743	Total dist:	151.521257
+Dist b/w	344	and	502:	18.000000	Waiting time:	304.478743	Total dist:	179.521257
+Dist b/w	502	and	300:	26.925824	Waiting time:	370.552919	Total dist:	216.447081
+Dist b/w	300	and	455:	13.416408	Waiting time:	708.136511	Total dist:	239.863489
+Dist b/w	455	and	509:	23.259407	Waiting time:	707.877105	Total dist:	273.122895
+Dist b/w	509	and	710:	17.088007	Waiting time:	812.789097	Total dist:	300.210903
+Dist b/w	710	and	301:	43.965896	Waiting time:	1025.823201	Total dist:	354.176799
+Dist b/w	301	and	0:	74.431176	Waiting time:	0.000000	Total dist:	438.607975
+Route #28:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	602:	35.846897	Waiting time:	0.000000	Total dist:	35.846897
+Dist b/w	602	and	331:	70.007142	Waiting time:	0.000000	Total dist:	115.854039
+Dist b/w	331	and	686:	19.026298	Waiting time:	323.119663	Total dist:	144.880337
+Dist b/w	686	and	55:	31.112698	Waiting time:	489.006965	Total dist:	185.993035
+Dist b/w	55	and	14:	38.470768	Waiting time:	488.536197	Total dist:	234.463803
+Dist b/w	14	and	235:	11.180340	Waiting time:	560.355857	Total dist:	255.644143
+Dist b/w	235	and	503:	5.000000	Waiting time:	667.355857	Total dist:	270.644143
+Dist b/w	503	and	480:	11.401754	Waiting time:	683.954103	Total dist:	292.045897
+Dist b/w	480	and	669:	5.830952	Waiting time:	767.123151	Total dist:	307.876849
+Dist b/w	669	and	288:	27.294688	Waiting time:	824.828463	Total dist:	345.171537
+Dist b/w	288	and	304:	44.418465	Waiting time:	918.409998	Total dist:	399.590002
+Dist b/w	304	and	0:	134.617978	Waiting time:	0.000000	Total dist:	544.207980
+Route #29:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	78:	50.447993	Waiting time:	0.000000	Total dist:	50.447993
+Dist b/w	78	and	184:	29.068884	Waiting time:	82.483123	Total dist:	89.516877
+Dist b/w	184	and	723:	47.927028	Waiting time:	297.556095	Total dist:	147.443905
+Dist b/w	723	and	453:	15.811388	Waiting time:	485.744707	Total dist:	173.255293
+Dist b/w	453	and	212:	7.071068	Waiting time:	481.673639	Total dist:	190.326361
+Dist b/w	212	and	238:	39.924930	Waiting time:	487.748710	Total dist:	240.251290
+Dist b/w	238	and	279:	52.630789	Waiting time:	631.117920	Total dist:	302.882080
+Dist b/w	279	and	0:	26.248809	Waiting time:	0.000000	Total dist:	339.130889
+Route #30:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	5:	219.237314	Waiting time:	0.000000	Total dist:	219.237314
+Dist b/w	5	and	319:	9.848858	Waiting time:	171.913828	Total dist:	239.086172
+Dist b/w	319	and	390:	22.360680	Waiting time:	211.553148	Total dist:	271.446852
+Dist b/w	390	and	367:	13.601471	Waiting time:	287.951678	Total dist:	295.048322
+Dist b/w	367	and	544:	16.643317	Waiting time:	310.308361	Total dist:	321.691639
+Dist b/w	544	and	324:	17.088007	Waiting time:	311.220353	Total dist:	348.779647
+Dist b/w	324	and	799:	31.953091	Waiting time:	406.267262	Total dist:	390.732738
+Dist b/w	799	and	548:	17.720045	Waiting time:	532.547217	Total dist:	418.452783
+Dist b/w	548	and	592:	6.324555	Waiting time:	533.222662	Total dist:	434.777338
+Dist b/w	592	and	219:	39.924930	Waiting time:	560.297732	Total dist:	484.702268
+Dist b/w	219	and	241:	42.638011	Waiting time:	685.659721	Total dist:	537.340279
+Dist b/w	241	and	0:	160.639348	Waiting time:	0.000000	Total dist:	707.979626
+Route #31:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	204:	25.238859	Waiting time:	0.000000	Total dist:	25.238859
+Dist b/w	204	and	376:	15.264338	Waiting time:	647.496804	Total dist:	50.503196
+Dist b/w	376	and	362:	3.162278	Waiting time:	898.334526	Total dist:	63.665474
+Dist b/w	362	and	0:	34.205263	Waiting time:	0.000000	Total dist:	107.870737
+Route #32:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	559:	50.119856	Waiting time:	0.000000	Total dist:	50.119856
+Dist b/w	559	and	546:	35.468296	Waiting time:	505.411848	Total dist:	95.588152
+Dist b/w	546	and	380:	20.000000	Waiting time:	528.411848	Total dist:	125.588152
+Dist b/w	380	and	460:	39.204592	Waiting time:	685.207256	Total dist:	174.792744
+Dist b/w	460	and	250:	23.021729	Waiting time:	824.185528	Total dist:	207.814472
+Dist b/w	250	and	0:	52.810984	Waiting time:	0.000000	Total dist:	270.625456
+Route #33:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	727:	73.925638	Waiting time:	0.000000	Total dist:	73.925638
+Dist b/w	727	and	519:	21.095023	Waiting time:	416.979339	Total dist:	105.020661
+Dist b/w	519	and	103:	22.472205	Waiting time:	417.507134	Total dist:	137.492866
+Dist b/w	103	and	787:	5.385165	Waiting time:	910.121969	Total dist:	152.878031
+Dist b/w	787	and	134:	36.674242	Waiting time:	934.447727	Total dist:	199.552273
+Dist b/w	134	and	619:	21.023796	Waiting time:	1010.423931	Total dist:	230.576069
+Dist b/w	619	and	0:	17.464249	Waiting time:	0.000000	Total dist:	258.040318
+Route #34:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	461:	191.460179	Waiting time:	0.000000	Total dist:	191.460179
+Dist b/w	461	and	531:	48.104054	Waiting time:	14.435767	Total dist:	249.564233
+Dist b/w	531	and	44:	4.472136	Waiting time:	76.963632	Total dist:	264.036368
+Dist b/w	44	and	539:	8.944272	Waiting time:	148.019360	Total dist:	282.980640
+Dist b/w	539	and	245:	29.681644	Waiting time:	138.337715	Total dist:	322.662285
+Dist b/w	245	and	1:	19.235384	Waiting time:	249.102331	Total dist:	351.897669
+Dist b/w	1	and	381:	17.262677	Waiting time:	280.839655	Total dist:	379.160345
+Dist b/w	381	and	39:	14.142136	Waiting time:	474.697519	Total dist:	403.302481
+Dist b/w	39	and	6:	41.146081	Waiting time:	543.551438	Total dist:	454.448562
+Dist b/w	6	and	236:	98.005102	Waiting time:	627.546336	Total dist:	562.453664
+Dist b/w	236	and	0:	20.248457	Waiting time:	0.000000	Total dist:	592.702121
+Route #35:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	37:	36.674242	Waiting time:	0.000000	Total dist:	36.674242
+Dist b/w	37	and	0:	36.674242	Waiting time:	0.000000	Total dist:	83.348483
+Route #36:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	138:	103.469802	Waiting time:	0.000000	Total dist:	103.469802
+Dist b/w	138	and	343:	75.006666	Waiting time:	0.000000	Total dist:	188.476469
+Dist b/w	343	and	422:	4.123106	Waiting time:	0.000000	Total dist:	202.599574
+Dist b/w	422	and	721:	9.055385	Waiting time:	17.345041	Total dist:	221.654959
+Dist b/w	721	and	69:	13.038405	Waiting time:	106.306636	Total dist:	244.693364
+Dist b/w	69	and	501:	31.400637	Waiting time:	111.905999	Total dist:	286.094001
+Dist b/w	501	and	682:	21.023796	Waiting time:	255.882203	Total dist:	317.117797
+Dist b/w	682	and	383:	13.000000	Waiting time:	296.882203	Total dist:	340.117797
+Dist b/w	383	and	361:	23.021729	Waiting time:	367.860474	Total dist:	373.139526
+Dist b/w	361	and	794:	31.240999	Waiting time:	515.619475	Total dist:	414.380525
+Dist b/w	794	and	329:	17.088007	Waiting time:	742.531468	Total dist:	441.468532
+Dist b/w	329	and	0:	69.641941	Waiting time:	0.000000	Total dist:	521.110474
+Route #37:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	419:	171.470114	Waiting time:	0.000000	Total dist:	171.470114
+Dist b/w	419	and	513:	41.340053	Waiting time:	0.189833	Total dist:	222.810167
+Dist b/w	513	and	708:	30.413813	Waiting time:	16.776020	Total dist:	263.223980
+Dist b/w	708	and	734:	7.071068	Waiting time:	309.704952	Total dist:	280.295048
+Dist b/w	734	and	71:	17.720045	Waiting time:	428.984907	Total dist:	308.015093
+Dist b/w	71	and	139:	24.186773	Waiting time:	439.798134	Total dist:	342.201866
+Dist b/w	139	and	522:	31.780497	Waiting time:	492.017637	Total dist:	383.982363
+Dist b/w	522	and	308:	12.806248	Waiting time:	655.211388	Total dist:	406.788612
+Dist b/w	308	and	299:	7.615773	Waiting time:	646.595615	Total dist:	424.404385
+Dist b/w	299	and	510:	31.764760	Waiting time:	680.830855	Total dist:	466.169145
+Dist b/w	510	and	534:	19.849433	Waiting time:	680.981422	Total dist:	496.018578
+Dist b/w	534	and	0:	147.410990	Waiting time:	0.000000	Total dist:	653.429569
+Route #38:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	747:	234.388566	Waiting time:	0.000000	Total dist:	234.388566
+Dist b/w	747	and	477:	34.205263	Waiting time:	0.000000	Total dist:	278.593829
+Dist b/w	477	and	82:	47.423623	Waiting time:	88.982548	Total dist:	336.017452
+Dist b/w	82	and	99:	38.275318	Waiting time:	88.707230	Total dist:	384.292770
+Dist b/w	99	and	30:	24.186773	Waiting time:	138.520457	Total dist:	418.479543
+Dist b/w	30	and	325:	13.416408	Waiting time:	159.104049	Total dist:	441.895951
+Dist b/w	325	and	328:	17.464249	Waiting time:	287.639799	Total dist:	469.360201
+Dist b/w	328	and	203:	25.059928	Waiting time:	344.579871	Total dist:	504.420129
+Dist b/w	203	and	691:	38.910153	Waiting time:	464.669718	Total dist:	553.330282
+Dist b/w	691	and	366:	44.721360	Waiting time:	558.948359	Total dist:	608.051641
+Dist b/w	366	and	0:	168.807583	Waiting time:	0.000000	Total dist:	786.859224
+Route #39:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	676:	46.227697	Waiting time:	0.000000	Total dist:	46.227697
+Dist b/w	676	and	796:	21.470911	Waiting time:	533.301392	Total dist:	77.698608
+Dist b/w	796	and	200:	26.076810	Waiting time:	548.224583	Total dist:	113.775417
+Dist b/w	200	and	194:	2.000000	Waiting time:	548.224583	Total dist:	125.775417
+Dist b/w	194	and	528:	24.351591	Waiting time:	758.872991	Total dist:	160.127009
+Dist b/w	528	and	635:	32.649655	Waiting time:	951.223336	Total dist:	202.776664
+Dist b/w	635	and	0:	78.492038	Waiting time:	0.000000	Total dist:	291.268702
+Route #40:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	137:	70.213959	Waiting time:	0.000000	Total dist:	70.213959
+Dist b/w	137	and	659:	70.830784	Waiting time:	0.000000	Total dist:	151.044743
+Dist b/w	659	and	557:	14.866069	Waiting time:	0.000000	Total dist:	175.910812
+Dist b/w	557	and	741:	59.076222	Waiting time:	0.012966	Total dist:	244.987034
+Dist b/w	741	and	772:	6.324555	Waiting time:	157.688411	Total dist:	261.311589
+Dist b/w	772	and	400:	38.470768	Waiting time:	358.217643	Total dist:	309.782357
+Dist b/w	400	and	19:	30.016662	Waiting time:	358.200981	Total dist:	349.799019
+Dist b/w	19	and	40:	23.769729	Waiting time:	377.431252	Total dist:	383.568748
+Dist b/w	40	and	254:	45.276926	Waiting time:	387.154326	Total dist:	438.845674
+Dist b/w	254	and	199:	34.481879	Waiting time:	661.672447	Total dist:	483.327553
+Dist b/w	199	and	595:	7.071068	Waiting time:	915.601379	Total dist:	500.398621
+Dist b/w	595	and	49:	59.774577	Waiting time:	915.826803	Total dist:	570.173197
+Dist b/w	49	and	0:	176.640879	Waiting time:	0.000000	Total dist:	756.814076
+Route #41:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	765:	65.192024	Waiting time:	0.000000	Total dist:	65.192024
+Dist b/w	765	and	493:	23.086793	Waiting time:	0.000000	Total dist:	98.278817
+Dist b/w	493	and	100:	11.045361	Waiting time:	106.675822	Total dist:	119.324178
+Dist b/w	100	and	353:	87.965902	Waiting time:	178.709920	Total dist:	217.290080
+Dist b/w	353	and	790:	29.681644	Waiting time:	214.028276	Total dist:	256.971724
+Dist b/w	790	and	261:	7.615773	Waiting time:	230.412502	Total dist:	274.587498
+Dist b/w	261	and	486:	60.530984	Waiting time:	230.881519	Total dist:	345.118481
+Dist b/w	486	and	89:	33.301652	Waiting time:	286.579867	Total dist:	388.420133
+Dist b/w	89	and	93:	29.068884	Waiting time:	480.510983	Total dist:	427.489017
+Dist b/w	93	and	436:	16.278821	Waiting time:	700.232163	Total dist:	453.767837
+Dist b/w	436	and	467:	83.630138	Waiting time:	735.602025	Total dist:	547.397975
+Dist b/w	467	and	0:	73.817342	Waiting time:	0.000000	Total dist:	631.215318
+Route #42:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	357:	98.898938	Waiting time:	0.000000	Total dist:	98.898938
+Dist b/w	357	and	8:	75.059976	Waiting time:	17.041086	Total dist:	183.958914
+Dist b/w	8	and	774:	17.262677	Waiting time:	16.778409	Total dist:	211.221591
+Dist b/w	774	and	445:	14.422205	Waiting time:	162.356204	Total dist:	235.643796
+Dist b/w	445	and	649:	13.000000	Waiting time:	380.356204	Total dist:	258.643796
+Dist b/w	649	and	95:	7.071068	Waiting time:	495.285136	Total dist:	275.714864
+Dist b/w	95	and	507:	21.470911	Waiting time:	502.814226	Total dist:	307.185774
+Dist b/w	507	and	660:	49.658836	Waiting time:	697.155390	Total dist:	366.844610
+Dist b/w	660	and	70:	3.162278	Waiting time:	821.993112	Total dist:	380.006888
+Dist b/w	70	and	0:	169.011834	Waiting time:	0.000000	Total dist:	559.018722
+Route #43:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	624:	180.953033	Waiting time:	0.000000	Total dist:	180.953033
+Dist b/w	624	and	465:	25.942244	Waiting time:	122.104724	Total dist:	216.895276
+Dist b/w	465	and	345:	36.687873	Waiting time:	142.416851	Total dist:	263.583149
+Dist b/w	345	and	35:	21.470911	Waiting time:	159.945941	Total dist:	295.054059
+Dist b/w	35	and	617:	34.365681	Waiting time:	257.580260	Total dist:	339.419740
+Dist b/w	617	and	549:	28.000000	Waiting time:	311.580260	Total dist:	377.419740
+Dist b/w	549	and	800:	32.802439	Waiting time:	533.777821	Total dist:	420.222179
+Dist b/w	800	and	27:	30.463092	Waiting time:	565.314729	Total dist:	460.685271
+Dist b/w	27	and	633:	54.037024	Waiting time:	606.277704	Total dist:	524.722296
+Dist b/w	633	and	195:	91.394748	Waiting time:	658.882956	Total dist:	626.117044
+Dist b/w	195	and	0:	68.410526	Waiting time:	0.000000	Total dist:	704.527569
+Route #44:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	554:	120.503112	Waiting time:	0.000000	Total dist:	120.503112
+Dist b/w	554	and	716:	41.725292	Waiting time:	126.771596	Total dist:	172.228404
+Dist b/w	716	and	573:	41.231056	Waiting time:	237.540540	Total dist:	223.459460
+Dist b/w	573	and	618:	28.160256	Waiting time:	238.380284	Total dist:	261.619716
+Dist b/w	618	and	520:	1.414214	Waiting time:	259.966070	Total dist:	273.033930
+Dist b/w	520	and	547:	20.808652	Waiting time:	447.157418	Total dist:	303.842582
+Dist b/w	547	and	562:	24.186773	Waiting time:	518.970645	Total dist:	338.029355
+Dist b/w	562	and	214:	40.311289	Waiting time:	614.659356	Total dist:	388.340644
+Dist b/w	214	and	614:	8.000000	Waiting time:	669.659356	Total dist:	406.340644
+Dist b/w	614	and	705:	17.000000	Waiting time:	667.659356	Total dist:	433.340644
+Dist b/w	705	and	285:	17.204651	Waiting time:	667.454706	Total dist:	460.545294
+Dist b/w	285	and	207:	16.552945	Waiting time:	830.901760	Total dist:	487.098240
+Dist b/w	207	and	0:	218.433056	Waiting time:	0.000000	Total dist:	715.531296
+Route #45:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	388:	55.009090	Waiting time:	0.000000	Total dist:	55.009090
+Dist b/w	388	and	87:	15.811388	Waiting time:	453.179522	Total dist:	80.820478
+Dist b/w	87	and	777:	27.513633	Waiting time:	661.665889	Total dist:	118.334111
+Dist b/w	777	and	0:	42.011903	Waiting time:	0.000000	Total dist:	170.346015
+Route #46:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	408:	37.000000	Waiting time:	0.000000	Total dist:	37.000000
+Dist b/w	408	and	97:	88.459030	Waiting time:	0.000000	Total dist:	135.459030
+Dist b/w	97	and	111:	10.198039	Waiting time:	10.342931	Total dist:	155.657069
+Dist b/w	111	and	128:	14.317821	Waiting time:	99.025110	Total dist:	179.974890
+Dist b/w	128	and	646:	36.769553	Waiting time:	98.255557	Total dist:	226.744443
+Dist b/w	646	and	565:	12.000000	Waiting time:	105.255557	Total dist:	248.744443
+Dist b/w	565	and	760:	25.317978	Waiting time:	173.937579	Total dist:	284.062421
+Dist b/w	760	and	333:	19.723083	Waiting time:	354.214496	Total dist:	313.785504
+Dist b/w	333	and	406:	13.152946	Waiting time:	653.061550	Total dist:	336.938450
+Dist b/w	406	and	579:	54.708317	Waiting time:	731.353233	Total dist:	401.646767
+Dist b/w	579	and	0:	143.892321	Waiting time:	0.000000	Total dist:	555.539088
+Route #47:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	409:	87.664132	Waiting time:	0.000000	Total dist:	87.664132
+Dist b/w	409	and	360:	82.298238	Waiting time:	50.037630	Total dist:	179.962370
+Dist b/w	360	and	3:	44.045431	Waiting time:	193.992199	Total dist:	234.007801
+Dist b/w	3	and	769:	34.176015	Waiting time:	311.816184	Total dist:	278.183816
+Dist b/w	769	and	792:	8.062258	Waiting time:	319.753926	Total dist:	296.246074
+Dist b/w	792	and	781:	6.403124	Waiting time:	370.350802	Total dist:	312.649198
+Dist b/w	781	and	273:	23.769729	Waiting time:	364.581073	Total dist:	346.418927
+Dist b/w	273	and	762:	44.418465	Waiting time:	366.162609	Total dist:	400.837391
+Dist b/w	762	and	190:	14.866069	Waiting time:	376.296540	Total dist:	425.703460
+Dist b/w	190	and	246:	33.970576	Waiting time:	415.325965	Total dist:	469.674035
+Dist b/w	246	and	756:	10.630146	Waiting time:	522.695819	Total dist:	490.304181
+Dist b/w	756	and	336:	30.463092	Waiting time:	667.232726	Total dist:	530.767274
+Dist b/w	336	and	464:	10.630146	Waiting time:	657.602580	Total dist:	551.397420
+Dist b/w	464	and	0:	184.165686	Waiting time:	0.000000	Total dist:	745.563106
+Route #48:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	339:	42.941821	Waiting time:	0.000000	Total dist:	42.941821
+Dist b/w	339	and	284:	216.113396	Waiting time:	0.000000	Total dist:	269.055217
+Dist b/w	284	and	104:	56.515485	Waiting time:	54.429298	Total dist:	335.570702
+Dist b/w	104	and	260:	18.384776	Waiting time:	95.044522	Total dist:	363.955478
+Dist b/w	260	and	720:	17.204651	Waiting time:	87.839871	Total dist:	391.160129
+Dist b/w	720	and	154:	5.000000	Waiting time:	160.839871	Total dist:	406.160129
+Dist b/w	154	and	105:	9.000000	Waiting time:	187.839871	Total dist:	425.160129
+Dist b/w	105	and	625:	19.646883	Waiting time:	349.192989	Total dist:	454.807011
+Dist b/w	625	and	57:	37.363083	Waiting time:	363.829905	Total dist:	502.170095
+Dist b/w	57	and	257:	9.219544	Waiting time:	390.610361	Total dist:	521.389639
+Dist b/w	257	and	454:	9.848858	Waiting time:	519.761503	Total dist:	541.238497
+Dist b/w	454	and	495:	5.656854	Waiting time:	525.104649	Total dist:	556.895351
+Dist b/w	495	and	719:	28.460499	Waiting time:	560.644150	Total dist:	595.355850
+Dist b/w	719	and	0:	156.400128	Waiting time:	0.000000	Total dist:	761.755978
+Route #49:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	775:	34.713110	Waiting time:	0.000000	Total dist:	34.713110
+Dist b/w	775	and	740:	26.627054	Waiting time:	0.000000	Total dist:	71.340164
+Dist b/w	740	and	31:	74.000000	Waiting time:	0.000000	Total dist:	155.340164
+Dist b/w	31	and	607:	20.124612	Waiting time:	0.000000	Total dist:	185.464776
+Dist b/w	607	and	711:	22.135944	Waiting time:	129.399281	Total dist:	217.600719
+Dist b/w	711	and	358:	5.000000	Waiting time:	497.399281	Total dist:	232.600719
+Dist b/w	358	and	556:	25.612497	Waiting time:	573.786784	Total dist:	268.213216
+Dist b/w	556	and	512:	7.615773	Waiting time:	572.171011	Total dist:	285.828989
+Dist b/w	512	and	729:	27.313001	Waiting time:	701.858010	Total dist:	323.141990
+Dist b/w	729	and	701:	20.223748	Waiting time:	873.634262	Total dist:	353.365738
+Dist b/w	701	and	444:	23.706539	Waiting time:	908.927723	Total dist:	387.072277
+Dist b/w	444	and	0:	165.520391	Waiting time:	0.000000	Total dist:	562.592669
+Route #50:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	636:	124.233651	Waiting time:	0.000000	Total dist:	124.233651
+Dist b/w	636	and	647:	19.646883	Waiting time:	21.119466	Total dist:	153.880534
+Dist b/w	647	and	589:	67.029844	Waiting time:	25.089622	Total dist:	230.910378
+Dist b/w	589	and	51:	7.071068	Waiting time:	17.018555	Total dist:	247.981445
+Dist b/w	51	and	92:	35.805028	Waiting time:	117.213527	Total dist:	293.786473
+Dist b/w	92	and	178:	8.062258	Waiting time:	219.151269	Total dist:	311.848731
+Dist b/w	178	and	166:	11.704700	Waiting time:	232.446569	Total dist:	333.553431
+Dist b/w	166	and	440:	18.973666	Waiting time:	316.472903	Total dist:	362.527097
+Dist b/w	440	and	374:	38.288379	Waiting time:	428.184524	Total dist:	410.815476
+Dist b/w	374	and	410:	27.586228	Waiting time:	425.598295	Total dist:	448.401705
+Dist b/w	410	and	709:	86.145226	Waiting time:	468.453069	Total dist:	544.546931
+Dist b/w	709	and	541:	41.436699	Waiting time:	539.016371	Total dist:	595.983629
+Dist b/w	541	and	0:	37.656341	Waiting time:	0.000000	Total dist:	643.639970
+Route #51:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	576:	180.560239	Waiting time:	0.000000	Total dist:	180.560239
+Dist b/w	576	and	657:	37.121422	Waiting time:	44.318338	Total dist:	227.681662
+Dist b/w	657	and	378:	10.630146	Waiting time:	290.688193	Total dist:	248.311807
+Dist b/w	378	and	108:	12.369317	Waiting time:	400.318876	Total dist:	270.681124
+Dist b/w	108	and	122:	9.899495	Waiting time:	493.419381	Total dist:	290.580619
+Dist b/w	122	and	282:	97.800818	Waiting time:	500.618563	Total dist:	398.381437
+Dist b/w	282	and	759:	24.020824	Waiting time:	590.597738	Total dist:	432.402262
+Dist b/w	759	and	424:	18.973666	Waiting time:	763.624072	Total dist:	461.375928
+Dist b/w	424	and	0:	183.133831	Waiting time:	0.000000	Total dist:	654.509758
+Route #52:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	115:	20.615528	Waiting time:	0.000000	Total dist:	20.615528
+Dist b/w	115	and	732:	189.707670	Waiting time:	0.000000	Total dist:	220.323198
+Dist b/w	732	and	365:	17.492856	Waiting time:	11.183946	Total dist:	247.816054
+Dist b/w	365	and	47:	49.396356	Waiting time:	8.787590	Total dist:	307.212410
+Dist b/w	47	and	521:	14.866069	Waiting time:	17.921521	Total dist:	332.078479
+Dist b/w	521	and	372:	17.464249	Waiting time:	121.457272	Total dist:	359.542728
+Dist b/w	372	and	470:	26.076810	Waiting time:	203.380463	Total dist:	395.619537
+Dist b/w	470	and	631:	6.708204	Waiting time:	353.672259	Total dist:	412.327741
+Dist b/w	631	and	112:	37.643060	Waiting time:	353.029198	Total dist:	459.970802
+Dist b/w	112	and	392:	2.236068	Waiting time:	554.793130	Total dist:	472.206870
+Dist b/w	392	and	654:	31.622777	Waiting time:	561.170354	Total dist:	513.829646
+Dist b/w	654	and	443:	16.552945	Waiting time:	573.617408	Total dist:	540.382592
+Dist b/w	443	and	683:	21.189620	Waiting time:	574.427788	Total dist:	571.572212
+Dist b/w	683	and	416:	12.649111	Waiting time:	616.778678	Total dist:	594.221322
+Dist b/w	416	and	0:	231.603109	Waiting time:	0.000000	Total dist:	835.824431
+Route #53:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	717:	110.941426	Waiting time:	0.000000	Total dist:	110.941426
+Dist b/w	717	and	185:	50.009999	Waiting time:	0.000000	Total dist:	170.951425
+Dist b/w	185	and	634:	56.080300	Waiting time:	10.968275	Total dist:	237.031725
+Dist b/w	634	and	637:	6.403124	Waiting time:	79.565151	Total dist:	253.434849
+Dist b/w	637	and	421:	19.235384	Waiting time:	95.329767	Total dist:	282.670233
+Dist b/w	421	and	473:	49.203658	Waiting time:	152.126109	Total dist:	341.873891
+Dist b/w	473	and	413:	12.649111	Waiting time:	151.476998	Total dist:	364.523002
+Dist b/w	413	and	216:	43.680659	Waiting time:	155.796339	Total dist:	418.203661
+Dist b/w	216	and	114:	13.892444	Waiting time:	572.903895	Total dist:	442.096105
+Dist b/w	114	and	572:	8.602325	Waiting time:	646.301570	Total dist:	460.698430
+Dist b/w	572	and	0:	133.645052	Waiting time:	0.000000	Total dist:	604.343483
+Route #54:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	658:	71.784399	Waiting time:	0.000000	Total dist:	71.784399
+Dist b/w	658	and	120:	31.256999	Waiting time:	0.000000	Total dist:	113.041399
+Dist b/w	120	and	598:	13.152946	Waiting time:	133.805655	Total dist:	136.194345
+Dist b/w	598	and	644:	20.000000	Waiting time:	147.805655	Total dist:	166.194345
+Dist b/w	644	and	264:	28.301943	Waiting time:	252.503712	Total dist:	204.496288
+Dist b/w	264	and	189:	28.653098	Waiting time:	265.850614	Total dist:	243.149386
+Dist b/w	189	and	638:	6.708204	Waiting time:	542.142410	Total dist:	259.857590
+Dist b/w	638	and	529:	15.132746	Waiting time:	545.009664	Total dist:	284.990336
+Dist b/w	529	and	688:	1.414214	Waiting time:	542.595451	Total dist:	296.404549
+Dist b/w	688	and	411:	12.206556	Waiting time:	623.388895	Total dist:	318.611105
+Dist b/w	411	and	226:	61.000000	Waiting time:	650.388895	Total dist:	389.611105
+Dist b/w	226	and	371:	9.000000	Waiting time:	674.388895	Total dist:	408.611105
+Dist b/w	371	and	0:	95.351980	Waiting time:	0.000000	Total dist:	513.963085
+Route #55:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	439:	37.161808	Waiting time:	0.000000	Total dist:	37.161808
+Dist b/w	439	and	499:	75.166482	Waiting time:	0.000000	Total dist:	122.328290
+Dist b/w	499	and	116:	17.262677	Waiting time:	38.409033	Total dist:	149.590967
+Dist b/w	116	and	500:	64.381674	Waiting time:	49.027359	Total dist:	223.972641
+Dist b/w	500	and	672:	27.802878	Waiting time:	77.224481	Total dist:	261.775519
+Dist b/w	672	and	76:	9.486833	Waiting time:	469.737648	Total dist:	281.262352
+Dist b/w	76	and	490:	5.385165	Waiting time:	460.352484	Total dist:	296.647516
+Dist b/w	490	and	283:	1.414214	Waiting time:	527.938270	Total dist:	308.061730
+Dist b/w	283	and	726:	9.219544	Waiting time:	557.718725	Total dist:	327.281275
+Dist b/w	726	and	172:	1.414214	Waiting time:	548.304512	Total dist:	338.695488
+Dist b/w	172	and	142:	10.816654	Waiting time:	660.487858	Total dist:	359.512142
+Dist b/w	142	and	468:	8.485281	Waiting time:	818.002577	Total dist:	377.997423
+Dist b/w	468	and	53:	17.262677	Waiting time:	830.739900	Total dist:	405.260100
+Dist b/w	53	and	202:	22.360680	Waiting time:	884.379220	Total dist:	437.620780
+Dist b/w	202	and	0:	141.428427	Waiting time:	0.000000	Total dist:	589.049207
+Route #56:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	81:	79.705709	Waiting time:	0.000000	Total dist:	79.705709
+Dist b/w	81	and	604:	38.288379	Waiting time:	220.005912	Total dist:	127.994088
+Dist b/w	604	and	268:	28.635642	Waiting time:	301.370270	Total dist:	166.629730
+Dist b/w	268	and	54:	10.770330	Waiting time:	342.599940	Total dist:	187.400060
+Dist b/w	54	and	679:	26.400758	Waiting time:	448.199183	Total dist:	223.800817
+Dist b/w	679	and	449:	14.422205	Waiting time:	535.776977	Total dist:	248.223023
+Dist b/w	449	and	52:	10.000000	Waiting time:	695.776977	Total dist:	268.223023
+Dist b/w	52	and	784:	19.104973	Waiting time:	743.672004	Total dist:	297.327996
+Dist b/w	784	and	107:	18.027756	Waiting time:	766.644248	Total dist:	325.355752
+Dist b/w	107	and	482:	66.910388	Waiting time:	957.733860	Total dist:	402.266140
+Dist b/w	482	and	0:	88.639720	Waiting time:	0.000000	Total dist:	500.905860
+Route #57:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	783:	45.541190	Waiting time:	0.000000	Total dist:	45.541190
+Dist b/w	783	and	85:	93.813645	Waiting time:	28.645165	Total dist:	149.354835
+Dist b/w	85	and	605:	8.062258	Waiting time:	133.582907	Total dist:	167.417093
+Dist b/w	605	and	442:	16.124515	Waiting time:	216.458392	Total dist:	193.541608
+Dist b/w	442	and	147:	36.400549	Waiting time:	237.057842	Total dist:	239.942158
+Dist b/w	147	and	437:	20.223748	Waiting time:	270.834094	Total dist:	270.165906
+Dist b/w	437	and	770:	14.422205	Waiting time:	263.411889	Total dist:	294.588111
+Dist b/w	770	and	278:	4.123106	Waiting time:	503.288783	Total dist:	308.711217
+Dist b/w	278	and	117:	50.695167	Waiting time:	513.593616	Total dist:	369.406384
+Dist b/w	117	and	601:	13.000000	Waiting time:	581.593616	Total dist:	392.406384
+Dist b/w	601	and	352:	39.204592	Waiting time:	657.389024	Total dist:	441.610976
+Dist b/w	352	and	0:	106.400188	Waiting time:	0.000000	Total dist:	558.011164
+Route #58:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	296:	3.000000	Waiting time:	0.000000	Total dist:	3.000000
+Dist b/w	296	and	187:	5.000000	Waiting time:	0.000000	Total dist:	18.000000
+Dist b/w	187	and	0:	8.000000	Waiting time:	0.000000	Total dist:	36.000000
+Route #59:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	481:	91.923882	Waiting time:	0.000000	Total dist:	91.923882
+Dist b/w	481	and	323:	43.863424	Waiting time:	21.212694	Total dist:	145.787306
+Dist b/w	323	and	276:	8.602325	Waiting time:	137.610369	Total dist:	164.389631
+Dist b/w	276	and	377:	7.000000	Waiting time:	169.610369	Total dist:	181.389631
+Dist b/w	377	and	341:	38.209946	Waiting time:	257.400422	Total dist:	229.599578
+Dist b/w	341	and	155:	24.596748	Waiting time:	265.803675	Total dist:	264.196325
+Dist b/w	155	and	608:	20.615528	Waiting time:	535.188147	Total dist:	294.811853
+Dist b/w	608	and	102:	31.016125	Waiting time:	556.172022	Total dist:	335.827978
+Dist b/w	102	and	106:	38.000000	Waiting time:	570.172022	Total dist:	383.827978
+Dist b/w	106	and	0:	87.664132	Waiting time:	0.000000	Total dist:	481.492110
+Route #60:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	588:	36.769553	Waiting time:	0.000000	Total dist:	36.769553
+Dist b/w	588	and	680:	88.600226	Waiting time:	0.000000	Total dist:	135.369778
+Dist b/w	680	and	318:	10.295630	Waiting time:	252.334592	Total dist:	155.665408
+Dist b/w	318	and	674:	16.970563	Waiting time:	413.364029	Total dist:	182.635971
+Dist b/w	674	and	567:	10.440307	Waiting time:	498.923722	Total dist:	203.076278
+Dist b/w	567	and	498:	30.870698	Waiting time:	534.053024	Total dist:	243.946976
+Dist b/w	498	and	32:	22.135944	Waiting time:	543.917081	Total dist:	276.082919
+Dist b/w	32	and	702:	7.071068	Waiting time:	614.846013	Total dist:	293.153987
+Dist b/w	702	and	162:	8.246211	Waiting time:	696.599801	Total dist:	311.400199
+Dist b/w	162	and	656:	25.079872	Waiting time:	727.519929	Total dist:	346.480071
+Dist b/w	656	and	600:	42.190046	Waiting time:	1063.329883	Total dist:	398.670117
+Dist b/w	600	and	0:	94.578010	Waiting time:	0.000000	Total dist:	503.248127
+Route #61:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	183:	5.099020	Waiting time:	0.000000	Total dist:	5.099020
+Dist b/w	183	and	684:	57.218878	Waiting time:	9.682102	Total dist:	72.317898
+Dist b/w	684	and	148:	7.211103	Waiting time:	1.471000	Total dist:	89.529000
+Dist b/w	148	and	399:	38.470768	Waiting time:	160.000232	Total dist:	137.999768
+Dist b/w	399	and	110:	24.166092	Waiting time:	159.834140	Total dist:	172.165860
+Dist b/w	110	and	615:	6.403124	Waiting time:	507.431016	Total dist:	188.568984
+Dist b/w	615	and	782:	6.403124	Waiting time:	660.027891	Total dist:	204.972109
+Dist b/w	782	and	58:	26.172505	Waiting time:	904.855387	Total dist:	241.144613
+Dist b/w	58	and	641:	8.246211	Waiting time:	1048.609175	Total dist:	259.390825
+Dist b/w	641	and	0:	67.977938	Waiting time:	0.000000	Total dist:	337.368762
+Route #62:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	431:	118.342723	Waiting time:	0.000000	Total dist:	118.342723
+Dist b/w	431	and	394:	37.202150	Waiting time:	0.000000	Total dist:	165.544873
+Dist b/w	394	and	788:	17.888544	Waiting time:	165.566583	Total dist:	193.433417
+Dist b/w	788	and	735:	31.400637	Waiting time:	196.165946	Total dist:	234.834054
+Dist b/w	735	and	109:	14.866069	Waiting time:	383.299877	Total dist:	259.700123
+Dist b/w	109	and	277:	52.839379	Waiting time:	383.460498	Total dist:	322.539502
+Dist b/w	277	and	173:	14.212670	Waiting time:	511.247828	Total dist:	346.752172
+Dist b/w	173	and	0:	72.498276	Waiting time:	0.000000	Total dist:	429.250448
+Route #63:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	504:	72.945185	Waiting time:	0.000000	Total dist:	72.945185
+Dist b/w	504	and	639:	58.309519	Waiting time:	1.745296	Total dist:	141.254704
+Dist b/w	639	and	643:	18.248288	Waiting time:	171.497009	Total dist:	169.502991
+Dist b/w	643	and	506:	15.033296	Waiting time:	180.463712	Total dist:	194.536288
+Dist b/w	506	and	375:	17.804494	Waiting time:	196.659218	Total dist:	222.340782
+Dist b/w	375	and	497:	13.038405	Waiting time:	188.620814	Total dist:	245.379186
+Dist b/w	497	and	678:	22.022716	Waiting time:	198.598098	Total dist:	277.401902
+Dist b/w	678	and	423:	58.000000	Waiting time:	193.598098	Total dist:	345.401902
+Dist b/w	423	and	563:	49.254441	Waiting time:	603.343657	Total dist:	404.656343
+Dist b/w	563	and	0:	69.079664	Waiting time:	0.000000	Total dist:	483.736008
+Route #64:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	302:	77.884530	Waiting time:	0.000000	Total dist:	77.884530
+Dist b/w	302	and	309:	17.464249	Waiting time:	0.000000	Total dist:	105.348779
+Dist b/w	309	and	585:	106.212052	Waiting time:	0.000000	Total dist:	221.560831
+Dist b/w	585	and	244:	41.048752	Waiting time:	153.390417	Total dist:	272.609583
+Dist b/w	244	and	251:	9.486833	Waiting time:	153.903584	Total dist:	292.096416
+Dist b/w	251	and	700:	7.211103	Waiting time:	153.692482	Total dist:	309.307518
+Dist b/w	700	and	420:	16.124515	Waiting time:	259.567966	Total dist:	335.432034
+Dist b/w	420	and	310:	15.652476	Waiting time:	249.915490	Total dist:	361.084510
+Dist b/w	310	and	135:	15.231546	Waiting time:	259.683944	Total dist:	386.316056
+Dist b/w	135	and	132:	4.123106	Waiting time:	403.560839	Total dist:	400.439161
+Dist b/w	132	and	321:	7.211103	Waiting time:	592.349736	Total dist:	417.650264
+Dist b/w	321	and	126:	24.738634	Waiting time:	673.611102	Total dist:	452.388898
+Dist b/w	126	and	596:	106.976633	Waiting time:	769.634469	Total dist:	569.365531
+Dist b/w	596	and	0:	93.085982	Waiting time:	0.000000	Total dist:	672.451512
+Route #65:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	303:	136.400147	Waiting time:	0.000000	Total dist:	136.400147
+Dist b/w	303	and	606:	34.481879	Waiting time:	0.000000	Total dist:	180.882026
+Dist b/w	606	and	143:	73.878278	Waiting time:	0.000000	Total dist:	264.760304
+Dist b/w	143	and	354:	17.691806	Waiting time:	85.547890	Total dist:	292.452110
+Dist b/w	354	and	429:	11.180340	Waiting time:	150.367550	Total dist:	313.632450
+Dist b/w	429	and	227:	9.486833	Waiting time:	309.880717	Total dist:	333.119283
+Dist b/w	227	and	476:	18.601075	Waiting time:	317.279642	Total dist:	361.720358
+Dist b/w	476	and	582:	3.000000	Waiting time:	498.279642	Total dist:	374.720358
+Dist b/w	582	and	186:	40.521599	Waiting time:	509.758043	Total dist:	425.241957
+Dist b/w	186	and	583:	55.803226	Waiting time:	522.954817	Total dist:	491.045183
+Dist b/w	583	and	90:	59.774577	Waiting time:	626.180240	Total dist:	560.819760
+Dist b/w	90	and	0:	69.339743	Waiting time:	0.000000	Total dist:	640.159503
+Route #66:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	384:	115.004348	Waiting time:	0.000000	Total dist:	115.004348
+Dist b/w	384	and	536:	1.000000	Waiting time:	236.995652	Total dist:	126.004348
+Dist b/w	536	and	13:	19.000000	Waiting time:	351.995652	Total dist:	155.004348
+Dist b/w	13	and	558:	10.000000	Waiting time:	395.995652	Total dist:	175.004348
+Dist b/w	558	and	36:	26.000000	Waiting time:	394.995652	Total dist:	211.004348
+Dist b/w	36	and	176:	19.235384	Waiting time:	417.760268	Total dist:	240.239732
+Dist b/w	176	and	466:	10.816654	Waiting time:	448.943614	Total dist:	261.056386
+Dist b/w	466	and	15:	21.260292	Waiting time:	576.683323	Total dist:	292.316677
+Dist b/w	15	and	425:	19.104973	Waiting time:	643.578350	Total dist:	321.421650
+Dist b/w	425	and	0:	128.654576	Waiting time:	0.000000	Total dist:	460.076227
+Route #67:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	456:	63.600314	Waiting time:	0.000000	Total dist:	63.600314
+Dist b/w	456	and	685:	65.000000	Waiting time:	0.000000	Total dist:	138.600314
+Dist b/w	685	and	242:	37.054015	Waiting time:	0.000000	Total dist:	185.654329
+Dist b/w	242	and	73:	28.017851	Waiting time:	0.000000	Total dist:	223.672181
+Dist b/w	73	and	141:	13.341664	Waiting time:	0.000000	Total dist:	247.013845
+Dist b/w	141	and	733:	32.756679	Waiting time:	13.229477	Total dist:	289.770523
+Dist b/w	733	and	305:	17.000000	Waiting time:	71.229477	Total dist:	316.770523
+Dist b/w	305	and	690:	2.000000	Waiting time:	168.229477	Total dist:	328.770523
+Dist b/w	690	and	797:	20.223748	Waiting time:	160.005728	Total dist:	358.994272
+Dist b/w	797	and	347:	15.231546	Waiting time:	159.774182	Total dist:	384.225818
+Dist b/w	347	and	675:	12.041595	Waiting time:	365.732587	Total dist:	406.267413
+Dist b/w	675	and	191:	2.000000	Waiting time:	548.732587	Total dist:	418.267413
+Dist b/w	191	and	294:	38.327536	Waiting time:	629.405052	Total dist:	466.594948
+Dist b/w	294	and	642:	15.132746	Waiting time:	665.272306	Total dist:	491.727694
+Dist b/w	642	and	0:	164.638999	Waiting time:	0.000000	Total dist:	666.366693
+Route #68:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	713:	155.630974	Waiting time:	0.000000	Total dist:	155.630974
+Dist b/w	713	and	101:	44.294469	Waiting time:	0.000000	Total dist:	209.925443
+Dist b/w	101	and	290:	68.767725	Waiting time:	212.306832	Total dist:	288.693168
+Dist b/w	290	and	689:	19.235384	Waiting time:	268.071448	Total dist:	317.928552
+Dist b/w	689	and	289:	39.357337	Waiting time:	270.714111	Total dist:	367.285889
+Dist b/w	289	and	295:	22.000000	Waiting time:	291.714111	Total dist:	399.285889
+Dist b/w	295	and	198:	32.015621	Waiting time:	292.698489	Total dist:	441.301511
+Dist b/w	198	and	389:	32.202484	Waiting time:	293.496005	Total dist:	483.503995
+Dist b/w	389	and	77:	22.135944	Waiting time:	571.360061	Total dist:	515.639939
+Dist b/w	77	and	435:	38.832976	Waiting time:	577.527086	Total dist:	564.472914
+Dist b/w	435	and	28:	75.663730	Waiting time:	573.863356	Total dist:	650.136644
+Dist b/w	28	and	144:	67.446275	Waiting time:	658.417081	Total dist:	727.582919
+Dist b/w	144	and	0:	47.423623	Waiting time:	0.000000	Total dist:	785.006542
+Route #69:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	68:	155.206314	Waiting time:	0.000000	Total dist:	155.206314
+Dist b/w	68	and	248:	33.541020	Waiting time:	0.000000	Total dist:	198.747334
+Dist b/w	248	and	164:	32.062439	Waiting time:	54.190227	Total dist:	240.809773
+Dist b/w	164	and	724:	5.000000	Waiting time:	70.190227	Total dist:	255.809773
+Dist b/w	724	and	706:	7.071068	Waiting time:	124.119159	Total dist:	272.880841
+Dist b/w	706	and	571:	10.770330	Waiting time:	226.348830	Total dist:	293.651170
+Dist b/w	571	and	159:	58.051701	Waiting time:	270.297128	Total dist:	361.702872
+Dist b/w	159	and	20:	20.808652	Waiting time:	407.488476	Total dist:	392.511524
+Dist b/w	20	and	695:	18.027756	Waiting time:	437.460720	Total dist:	420.539280
+Dist b/w	695	and	581:	38.078866	Waiting time:	437.381854	Total dist:	468.618146
+Dist b/w	581	and	131:	47.434165	Waiting time:	588.947690	Total dist:	526.052310
+Dist b/w	131	and	224:	8.602325	Waiting time:	707.345364	Total dist:	544.654636
+Dist b/w	224	and	632:	42.426407	Waiting time:	765.918957	Total dist:	597.081043
+Dist b/w	632	and	0:	43.185646	Waiting time:	0.000000	Total dist:	650.266688
+Route #70:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	430:	32.649655	Waiting time:	0.000000	Total dist:	32.649655
+Dist b/w	430	and	538:	29.068884	Waiting time:	110.281461	Total dist:	71.718539
+Dist b/w	538	and	157:	23.769729	Waiting time:	279.511732	Total dist:	105.488268
+Dist b/w	157	and	25:	18.110770	Waiting time:	463.400962	Total dist:	133.599038
+Dist b/w	25	and	651:	31.144823	Waiting time:	514.256139	Total dist:	174.743861
+Dist b/w	651	and	737:	43.416587	Waiting time:	535.839552	Total dist:	228.160448
+Dist b/w	737	and	574:	28.284271	Waiting time:	597.555281	Total dist:	266.444719
+Dist b/w	574	and	0:	12.369317	Waiting time:	0.000000	Total dist:	288.814036
+Route #71:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	402:	112.605506	Waiting time:	0.000000	Total dist:	112.605506
+Dist b/w	402	and	751:	36.069378	Waiting time:	0.000000	Total dist:	158.674884
+Dist b/w	751	and	653:	36.221541	Waiting time:	79.103576	Total dist:	204.896424
+Dist b/w	653	and	130:	11.401754	Waiting time:	286.701822	Total dist:	226.298178
+Dist b/w	130	and	457:	21.633308	Waiting time:	282.068514	Total dist:	257.931486
+Dist b/w	457	and	744:	8.246211	Waiting time:	458.822303	Total dist:	276.177697
+Dist b/w	744	and	677:	20.808652	Waiting time:	459.013651	Total dist:	306.986349
+Dist b/w	677	and	232:	24.166092	Waiting time:	458.847559	Total dist:	341.152441
+Dist b/w	232	and	584:	32.140317	Waiting time:	454.707241	Total dist:	383.292759
+Dist b/w	584	and	438:	12.806248	Waiting time:	652.900993	Total dist:	406.099007
+Dist b/w	438	and	728:	78.025637	Waiting time:	1005.875356	Total dist:	494.124644
+Dist b/w	728	and	0:	56.753854	Waiting time:	0.000000	Total dist:	560.878499
+Route #72:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	266:	32.649655	Waiting time:	0.000000	Total dist:	32.649655
+Dist b/w	266	and	217:	27.294688	Waiting time:	524.055656	Total dist:	69.944344
+Dist b/w	217	and	395:	43.046487	Waiting time:	524.009170	Total dist:	122.990830
+Dist b/w	395	and	59:	13.453624	Waiting time:	523.555546	Total dist:	146.444454
+Dist b/w	59	and	603:	57.384667	Waiting time:	561.170879	Total dist:	213.829121
+Dist b/w	603	and	489:	5.000000	Waiting time:	561.170879	Total dist:	228.829121
+Dist b/w	489	and	524:	9.219544	Waiting time:	560.951334	Total dist:	248.048666
+Dist b/w	524	and	7:	33.615473	Waiting time:	556.335862	Total dist:	291.664138
+Dist b/w	7	and	609:	22.360680	Waiting time:	551.975182	Total dist:	324.024818
+Dist b/w	609	and	591:	32.984845	Waiting time:	592.990337	Total dist:	367.009663
+Dist b/w	591	and	314:	58.694122	Waiting time:	910.296215	Total dist:	435.703785
+Dist b/w	314	and	0:	54.561891	Waiting time:	0.000000	Total dist:	500.265677
+Route #73:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	725:	34.205263	Waiting time:	0.000000	Total dist:	34.205263
+Dist b/w	725	and	61:	14.142136	Waiting time:	7.652602	Total dist:	58.347398
+Dist b/w	61	and	736:	39.623226	Waiting time:	479.029376	Total dist:	107.970624
+Dist b/w	736	and	610:	5.000000	Waiting time:	560.029376	Total dist:	122.970624
+Dist b/w	610	and	258:	43.174066	Waiting time:	599.855310	Total dist:	176.144690
+Dist b/w	258	and	267:	8.062258	Waiting time:	686.793052	Total dist:	194.206948
+Dist b/w	267	and	274:	1.000000	Waiting time:	1076.793052	Total dist:	205.206948
+Dist b/w	274	and	33:	27.018512	Waiting time:	1093.774540	Total dist:	242.225460
+Dist b/w	33	and	0:	52.239832	Waiting time:	0.000000	Total dist:	304.465292
+Route #74:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	220:	83.546394	Waiting time:	0.000000	Total dist:	83.546394
+Dist b/w	220	and	652:	12.041595	Waiting time:	8.412011	Total dist:	105.587989
+Dist b/w	652	and	152:	14.866069	Waiting time:	365.545942	Total dist:	130.454058
+Dist b/w	152	and	24:	4.242641	Waiting time:	482.303302	Total dist:	144.696698
+Dist b/w	24	and	484:	51.623638	Waiting time:	482.679664	Total dist:	206.320336
+Dist b/w	484	and	560:	46.529560	Waiting time:	493.150103	Total dist:	262.849897
+Dist b/w	560	and	785:	9.848858	Waiting time:	629.301245	Total dist:	282.698755
+Dist b/w	785	and	599:	18.357560	Waiting time:	823.943686	Total dist:	311.056314
+Dist b/w	599	and	786:	19.235384	Waiting time:	1048.708302	Total dist:	340.291698
+Dist b/w	786	and	0:	43.931765	Waiting time:	0.000000	Total dist:	394.223464
+Route #75:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	704:	81.049368	Waiting time:	0.000000	Total dist:	81.049368
+Dist b/w	704	and	789:	43.863424	Waiting time:	35.087208	Total dist:	134.912792
+Dist b/w	789	and	165:	27.586228	Waiting time:	27.500979	Total dist:	172.499021
+Dist b/w	165	and	133:	15.620499	Waiting time:	206.880480	Total dist:	198.119520
+Dist b/w	133	and	181:	24.207437	Waiting time:	380.673043	Total dist:	232.326957
+Dist b/w	181	and	252:	10.000000	Waiting time:	477.673043	Total dist:	252.326957
+Dist b/w	252	and	286:	33.120990	Waiting time:	477.552053	Total dist:	295.447947
+Dist b/w	286	and	662:	30.413813	Waiting time:	506.138240	Total dist:	335.861760
+Dist b/w	662	and	346:	19.104973	Waiting time:	506.033267	Total dist:	364.966733
+Dist b/w	346	and	575:	61.684682	Waiting time:	529.348585	Total dist:	436.651415
+Dist b/w	575	and	698:	39.293765	Waiting time:	643.054820	Total dist:	485.945180
+Dist b/w	698	and	0:	69.971423	Waiting time:	0.000000	Total dist:	565.916603
+Route #76:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	65:	94.530418	Waiting time:	0.000000	Total dist:	94.530418
+Dist b/w	65	and	511:	77.201036	Waiting time:	0.000000	Total dist:	181.731455
+Dist b/w	511	and	320:	25.495098	Waiting time:	60.773448	Total dist:	217.226552
+Dist b/w	320	and	472:	25.179357	Waiting time:	116.594091	Total dist:	252.405909
+Dist b/w	472	and	648:	37.947332	Waiting time:	185.646759	Total dist:	300.353241
+Dist b/w	648	and	359:	30.083218	Waiting time:	200.563541	Total dist:	340.436459
+Dist b/w	359	and	4:	37.336309	Waiting time:	218.227232	Total dist:	387.772768
+Dist b/w	4	and	739:	20.518285	Waiting time:	343.708947	Total dist:	418.291053
+Dist b/w	739	and	66:	30.805844	Waiting time:	591.903104	Total dist:	459.096896
+Dist b/w	66	and	91:	116.760439	Waiting time:	627.142665	Total dist:	585.857335
+Dist b/w	91	and	0:	42.449971	Waiting time:	0.000000	Total dist:	638.307305
+Route #77:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	297:	240.052078	Waiting time:	0.000000	Total dist:	240.052078
+Dist b/w	297	and	334:	25.632011	Waiting time:	0.000000	Total dist:	275.684089
+Dist b/w	334	and	192:	23.769729	Waiting time:	40.546182	Total dist:	309.453818
+Dist b/w	192	and	10:	19.026298	Waiting time:	209.519885	Total dist:	338.480115
+Dist b/w	10	and	136:	27.294688	Waiting time:	247.225197	Total dist:	375.774803
+Dist b/w	136	and	364:	17.262677	Waiting time:	246.962520	Total dist:	403.037480
+Dist b/w	364	and	22:	22.360680	Waiting time:	252.601840	Total dist:	435.398160
+Dist b/w	22	and	597:	17.691806	Waiting time:	357.910034	Total dist:	463.089966
+Dist b/w	597	and	369:	13.000000	Waiting time:	376.910034	Total dist:	486.089966
+Dist b/w	369	and	368:	20.615528	Waiting time:	445.294506	Total dist:	516.705494
+Dist b/w	368	and	23:	23.323808	Waiting time:	440.970699	Total dist:	550.029301
+Dist b/w	23	and	555:	46.754679	Waiting time:	441.216020	Total dist:	606.783980
+Dist b/w	555	and	231:	25.317978	Waiting time:	564.898042	Total dist:	642.101958
+Dist b/w	231	and	0:	117.515956	Waiting time:	0.000000	Total dist:	769.617914
+Route #78:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	527:	127.455875	Waiting time:	0.000000	Total dist:	127.455875
+Dist b/w	527	and	145:	144.402216	Waiting time:	0.000000	Total dist:	281.858091
+Dist b/w	145	and	151:	10.440307	Waiting time:	170.701603	Total dist:	302.298397
+Dist b/w	151	and	256:	27.586228	Waiting time:	271.115374	Total dist:	339.884626
+Dist b/w	256	and	587:	14.035669	Waiting time:	271.079705	Total dist:	363.920295
+Dist b/w	587	and	768:	26.400758	Waiting time:	261.678948	Total dist:	400.321052
+Dist b/w	768	and	488:	19.209373	Waiting time:	307.469575	Total dist:	429.530425
+Dist b/w	488	and	428:	16.278821	Waiting time:	352.190755	Total dist:	455.809245
+Dist b/w	428	and	271:	18.867962	Waiting time:	415.322792	Total dist:	484.677208
+Dist b/w	271	and	664:	10.440307	Waiting time:	558.882486	Total dist:	505.117514
+Dist b/w	664	and	182:	46.227697	Waiting time:	634.654788	Total dist:	561.345212
+Dist b/w	182	and	34:	135.948520	Waiting time:	634.706269	Total dist:	707.293731
+Dist b/w	34	and	121:	20.124612	Waiting time:	833.581657	Total dist:	737.418343
+Dist b/w	121	and	0:	45.343136	Waiting time:	0.000000	Total dist:	792.761479
+Route #79:
+------------------------------------------------------------------------------------------------------------------
+Dist b/w	0	and	668:	172.246916	Waiting time:	0.000000	Total dist:	172.246916
+Dist b/w	668	and	96:	49.648766	Waiting time:	0.000000	Total dist:	231.895682
+Dist b/w	96	and	171:	27.513633	Waiting time:	0.000000	Total dist:	269.409315
+Dist b/w	171	and	496:	30.610456	Waiting time:	155.980229	Total dist:	310.019771
+Dist b/w	496	and	750:	24.083189	Waiting time:	152.897040	Total dist:	344.102960
+Dist b/w	750	and	123:	21.023796	Waiting time:	349.873244	Total dist:	375.126756
+Dist b/w	123	and	738:	14.035669	Waiting time:	351.837575	Total dist:	399.162425
+Dist b/w	738	and	516:	22.803509	Waiting time:	453.034067	Total dist:	431.965933
+Dist b/w	516	and	630:	32.984845	Waiting time:	576.049222	Total dist:	474.950778
+Dist b/w	630	and	350:	20.124612	Waiting time:	575.924610	Total dist:	505.075390
+Dist b/w	350	and	0:	251.765764	Waiting time:	0.000000	Total dist:	766.841154
+Route #80:
+------------------------------------------------------------------------------------------------------------------
