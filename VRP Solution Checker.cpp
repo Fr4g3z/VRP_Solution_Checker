@@ -32,23 +32,8 @@ public:
     Customer() :
         id(), xc(), yc(), demand(), readyT(), finT(), serviceT() {}
     double distance(Customer other, double d = 0.0) const {
-        double xn = other.xc - xc, yn = other.yc - yc, dist = sqrt(pow(xn, 2) + pow(yn, 2)), diff;
-        std::ofstream write_route(".\\output\\route_distance.txt", std::ofstream::out | std::ofstream::app);
+        double xn = other.xc - xc, yn = other.yc - yc, dist = sqrt(pow(xn, 2) + pow(yn, 2));
         d += dist;
-        if (d < other.readyT) {
-            diff = other.readyT - d;
-        }
-        else {
-            diff = 0;
-        }
-        if (d > other.finT) {
-            write_route << "Too late! B/w\t" << id << "\tand\t" << other.id << "\t(" << d << ") Should be\t" << other.finT << std::endl;
-            std::cout << "Too late! B/w\t" << id << "\tand\t" << other.id << "\t(" << d << ") Should be\t" << other.finT << std::endl;
-            return -1;
-        }
-        write_route << std::fixed << "Dist b/w\t" << id << "\tand\t" << other.id << ":\t" << dist << "\tWaiting time:\t" << diff << "\tTotal dist:\t" << d << std::endl;
-        std::cout << std::fixed << "Dist b/w\t" << id << "\tand\t" << other.id << ":\t" << dist << "\tWaiting time:\t" << diff << "\tTotal dist:\t" << d << std::endl;
-        write_route.close();
         return d;
     }
     int capacity(Customer& other, int cap) {
@@ -65,22 +50,16 @@ public:
     int cap;
     double time;
     std::vector<int> route;
-    Car(std::vector<int> _route) {
-        num = 0;
-        cap = 200;
-        time = 0.0;
-        route = _route;
-    }
-    void routeCheck(std::vector<Customer>& cust) {
+    Car(std::vector<int>& _route) :
+        num(0), cap(200), time(0.0), route(_route) {}
+    void routeCheck(std::vector<Customer>& customer) {
         for (int i = 0; i < route.size() - 1; i++) {
-
-            time = cust[route[i]].distance(cust[route[i + 1]], time);
+            time = customer[route[i]].distance(customer[route[i + 1]], time);
             if (time == -1) {
                 break;
 
             }
-            time += cust[route[i + 1]].serviceT;
-            cap = cust[route[i]].capacity(cust[route[i + 1]], cap);
+            cap = customer[route[i]].capacity(customer[route[i + 1]], cap);
         }
 
     }
@@ -116,29 +95,21 @@ void txt_to_cars(std::vector<Car>& cars) {
 void test(std::vector<Car>& cars, std::vector<Customer> customer) {
     double totalDist = 0.0, totalTime = 0.0;
     std::ofstream write_distance(".\\output\\distance.txt");
-    std::ofstream write_route(".\\output\\route_distance.txt");
-    write_route << "------------------------------------------------------------------------------------------------------------------" << std::endl;
-    write_route.close();
-    std::ofstream write_route_distance(".\\output\\route_distance.txt", std::ofstream::out | std::ofstream::app);
     for (int i = 0; i < cars.size(); i++) {
         cars[i].routeCheck(customer);
-
         if (cars[i].time == -1) {
             std::cout << i + 1 << ". WRONG!" << std::endl;
         }
         else {
             totalDist += cars[i].time;
-            write_route_distance << "Route #" << i + 1 << ":" << std::endl;
-            write_route_distance << "------------------------------------------------------------------------------------------------------------------" << std::endl;
             write_distance << std::fixed << i + 1 << ".\t Distance:\t" << cars[i].time << std::endl;
-            std::cout << std::fixed << std::endl << "#" << i + 1 << ".\t Distance:\t " << cars[i].time << std::endl;
+            std::cout << std::fixed << "#" << i + 1 << ".\t Distance:\t " << cars[i].time << std::endl;
             std::cout << "------------------------------------------------------------------------------------------------------------------" << std::endl;
         }
     }
     std::cout << std::fixed << std::endl << "Total distance: " << totalDist;
     write_distance << std::fixed << std::endl << "Total distance: " << totalDist;
     write_distance.close();
-    write_route_distance.close();
 }
 int main()
 {
